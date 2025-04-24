@@ -15,6 +15,7 @@ Lobster Land wants to improve its targeting strategy by understanding how differ
 
 Using unsupervised learning and statistical techniques, we uncovered 4 distinct clusters with unique behavioral patterns.
 
+![Elbow_Chart_num_clusters](images/Elbow_Chart_num_clusters.png)
 ---
 
 ## Key Findings
@@ -30,6 +31,7 @@ A boxplot of `est_leisure_perc` revealed:
 - Cluster 0 shows the **lowest**.
 - Clusters 2 and 3 fall around the average.
 
+![Bar_Plot_estimated_leisure_percentage](images/Bar_Plot_estimated_leisure_percentage.png)
 ---
 
 ## Business Recommendations
@@ -38,6 +40,13 @@ A boxplot of `est_leisure_perc` revealed:
 - **Cluster 1**: Enhance on-site relaxation-focused experiences.
 - **Cluster 2**: Offer luxury travel-themed events and premium experiences.
 - **Cluster 3**: Improve local access and offer resident discounts to drive frequent visits.
+
+![Bar_Plot_distance_from_lobsterland](images/Bar_Plot_distance_from_lobsterland.png)
+
+![Box_Plot_net_worth](images/Box_Plot_net_worth.png)
+
+![Scatter_Plot_estimated_travel_percentage](images/Scatter_Plot_estimated_travel_percentage.png)
+
 
 ---
 
